@@ -1,0 +1,7 @@
+http://localhost:3000/api/v1/libritos post  {
+  "librito": {
+    "title": "Harry Potter y la piedra filosofal",
+    "author": "J.K. Rowling",
+    "year": 1997
+  }
+}

@@ -1,0 +1,17 @@
+http://127.0.0.1:5000/api/libros pa las peticiones
+
+[
+    {
+        "id": 1,
+        "titulo": "El Gran Libro",
+        "autor": "Juan Pérez",
+        "año_publicacion": 2020
+    },
+    {
+        "id": 2,
+        "titulo": "Aprende Python",
+        "autor": "Ana López",
+        "año_publicacion": 2022
+    }
+]
+ 

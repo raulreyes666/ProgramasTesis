@@ -1,0 +1,11 @@
+http://127.0.0.1:3000/libros asi se usa
+
+
+    {
+        "id": 1,
+        "titulo": null,
+        "autor": "J.R.R. Tolkien",
+        "anio_publicacion": 1954,
+        "created_at": "2024-11-24T05:43:00.777Z",
+        "updated_at": "2024-11-24T05:43:00.777Z"
+    }

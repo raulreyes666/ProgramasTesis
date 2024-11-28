@@ -1,0 +1,8 @@
+http://localhost:3000/api/v1/books a ese link  y api asi 
+{
+  "book": {
+    "title": "Don Quijote",
+    "author": "Miguel de Cervantes",
+    "year": 1605
+  }
+}
