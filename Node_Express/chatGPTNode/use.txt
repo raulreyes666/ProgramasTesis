@@ -1,5 +1,1 @@
-node app.js y ya , abres mongo y postman y ya   
-
-
-llamar endpoint 
-http://localhost:3000/api/books
+La manera de usarlo es ejecutar node app.js y consumir la api mediante postman a la url http://localhost:3000/api/books.

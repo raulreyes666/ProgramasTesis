@@ -1,3 +1,1 @@
-http://localhost:3000/api/books endpoint
-
-uso node app.js
+Para utilizarlo se ejecuta el comando node app.js y se puede testear en postman llamando a la API http://localhost:3000/api/books 
