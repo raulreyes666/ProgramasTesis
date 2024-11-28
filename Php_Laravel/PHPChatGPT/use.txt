@@ -1,0 +1,4 @@
+Para ejecutar el programa utiliza php artisan serve
+Para realizar test utiliza la siguiente API http://127.0.0.1:8000/api/libros .
+
+DISCLAIMER: ESTE PROGRAMA NO ES FUNCIONAL EN SU TOTALIDAD

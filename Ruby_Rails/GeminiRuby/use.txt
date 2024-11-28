@@ -1,0 +1,3 @@
+El programa se corre con rails server
+A esta api se realizan las pruebas mediante postman. http://localhost:3000/api/v1/libritos
+
